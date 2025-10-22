@@ -1,4 +1,3 @@
-# Bank-Analysis
 ## Power Bi dashboard.
 
 
@@ -52,6 +51,7 @@ Implies external factors (real estate market, inheritance, region) drive propert
 Moderate link between Business Lending and Bank Loans — some customers likely engage in both.
 
 However, Business Lending is largely independent of deposit-related variables, indicating a distinct customer segment.
+
 
 
 
